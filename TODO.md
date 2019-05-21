@@ -1,4 +1,4 @@
 TODO introduced
 
-Feature 4 merged to master
+Feature 5 added something
 Someone pushed changes to Master
