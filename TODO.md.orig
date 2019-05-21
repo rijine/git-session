@@ -1,8 +1,8 @@
 TODO introduced
 
 <<<<<<< HEAD
-Feature 4 merged to master
+Feature 5 added something
 Someone pushed changes to Master
 =======
-Feature 5 added something
->>>>>>> Feature 5
+Feature 5 updated something
+>>>>>>> feature4
